@@ -1,2 +1,2 @@
 # TODO-List
-A simple frontend for the TODO List
+A Simple TODO List App
