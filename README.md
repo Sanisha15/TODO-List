@@ -1,2 +1,3 @@
 # TODO-List
-A Simple TODO List App
+A TODO List App where user can add tasks and delete after completed.
+
