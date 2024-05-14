@@ -1,3 +1,3 @@
 # TODO-List
-A TODO List webpage where user can add tasks and delete after completed.
+A TODO List website where user can add tasks and delete after completed.
 
